@@ -1,0 +1,9 @@
+.active {
+  border-bottom: 2px solid #ffc107;
+}
+.navbar-toggler {
+  background-color: #ffc107 !important;
+}
+.btn-close:focus {
+  box-shadow: none !important;
+}

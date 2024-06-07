@@ -1,0 +1,35 @@
+.cardContainer {
+  width: 100%;
+  border-radius: 5px;
+  background-color: #282A35;
+  color: #fff;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.cardImage {
+  position: relative;
+}
+.cardImage img {
+  border-radius: 5px 5px 20px 20px;
+}
+.cardImage p {
+  position: absolute;
+  top: 0px;
+  right: 0;
+  border-radius: 0px 5px 0px 5px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  padding: 5px;
+  color: #282A35;
+  background-color: #FFC107;
+}
+.userCount {
+  border-bottom: 2px solid #282A35;
+}
+.cardContent {
+  padding: 20px;
+}
+.cardFooter {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 20px;
+}

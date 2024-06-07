@@ -1,0 +1,12 @@
+.btnStyle{
+    all: unset;
+    background-color: #282A35;
+    padding: 10px;
+    color: #fff !important;
+    border-radius: 50% !important;
+    transition: all .3s ease;
+}
+.btnStyle:hover{
+    background-color: #282a3532;
+    color: #282A35 !important;
+}

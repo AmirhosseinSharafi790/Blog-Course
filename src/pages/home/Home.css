@@ -1,0 +1,15 @@
+.customSwiperStyle {
+  display: flex !important;
+  flex-direction: column-reverse !important;
+  padding-bottom: 90px !important;
+}
+.sectionTitle {
+  font-family: "lalezar";
+  margin: 30px 0;
+}
+
+.swiperTopSection {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

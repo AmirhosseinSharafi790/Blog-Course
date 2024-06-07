@@ -1,0 +1,5 @@
+.box-radios:hover{
+    scale: 1.06;
+    border-radius: 52% 48% 50% 50% / 43% 37% 63% 57%  ;
+    transition: all 1s;
+}
